@@ -1448,7 +1448,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yuexunshi/todo</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">基于玩安卓api的todo</div>
@@ -1495,7 +1495,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>imaNNeoFighT/fl_chart</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A powerful Flutter chart library, currently supporting Line Chart, Bar Chart, Pie Chart, Scatter Chart and Radar Chart.</div>
@@ -1645,7 +1645,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Jan 2022, 10:01:04 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 11:10:10 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
