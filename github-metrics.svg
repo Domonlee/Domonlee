@@ -1450,7 +1450,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>honzaap/GithubCity</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Create a 3D city from your GitHub contributions 🏙</div>
@@ -1544,7 +1544,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>disksing/sao-gen-gen</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">骚话生成器生成器</div>
@@ -1597,7 +1597,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sunym1993/flash-linux0.11-talk</span>
-                                        <span>starred 20 days ago</span>
+                                        <span>starred 21 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码</div>
@@ -1625,7 +1625,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        38
+                                        39
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1641,7 +1641,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Aug 2022, 08:50:18 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 18 Aug 2022, 11:24:05 (timezone Asia/Shanghai) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
