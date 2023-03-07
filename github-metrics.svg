@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            749 Commits
+                            750 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -321,14 +321,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.91216847699746" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="334.91216847699746" y="0" width="49.96850921765268" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="384.8806776946501" y="0" width="33.55598154317953" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="418.43665923782964" y="0" width="22.258488893739994" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="440.6951481315696" y="0" width="17.15890277109439" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="457.854050902664" y="0" width="1.5888230549679712" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.442873957632" y="0" width="0.4692604100361192" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.91213436766816" y="0" width="0.08786563233186594" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="334.9123442252351" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="334.9123442252351" y="0" width="49.96829404986052" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="384.8806382750956" y="0" width="33.555999151989155" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="418.43663742708475" y="0" width="22.258500574086554" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="440.6951380011713" y="0" width="17.158911775386276" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="457.85404977655753" y="0" width="1.5888238887174675" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.44287366527504" y="0" width="0.4692606562848309" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.91213432155985" y="0" width="0.0878656784401638" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1440,7 +1440,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pguijas/artiluxio</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>alaskasquirrel/Email-newsletter-RSS</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">邮箱 📧 newsletter RSS 荟萃 News</div>
@@ -1509,7 +1509,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        1.23k
+                                        1.24k
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1541,7 +1541,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iggredible/Learn-Vim</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖</div>
@@ -1638,7 +1638,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Mar 2023, 15:07:03 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 7 Mar 2023, 16:11:32 (timezone Asia/Shanghai) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
