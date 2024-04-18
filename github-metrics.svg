@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1202" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1235" class="">
     <defs>
         <style/>
     </defs>
@@ -1453,7 +1453,7 @@
                                         <span>starred 5 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。</div>
+                                <div class="field description">⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.</div>
                                 <div class="field infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1641,7 +1641,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Apr 2024, 09:41:29 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 18 Apr 2024, 10:17:30 (timezone Asia/Shanghai) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
